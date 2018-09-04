@@ -1,0 +1,2 @@
+# filename: example_crate.dmap
+PCIE0  sdm://./pci:pcieunis4;  mesa_sis8300l_r0.map
